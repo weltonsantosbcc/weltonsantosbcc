@@ -136,12 +136,6 @@ I also research Computer Engineering, with interests in **Artificial Intelligenc
 
 </div>
 
-## 🌎 Languages
-
-- 🇧🇷 Portuguese — Native
-- 🇺🇸 English — Intermediate
-- 🇪🇸 Spanish — Intermediate
-
 ---
 
 <div align="center">
