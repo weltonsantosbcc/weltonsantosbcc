@@ -1,44 +1,44 @@
-# 👋 Olá, eu sou Welton L. Santos!
+# 👋 Hi, I'm Welton L. Santos!
 
-### Product Designer | Data & AI Researcher | QA Engineer | Engenharia de Requisitos | AI- Driven
+### Product Designer | Data & AI Researcher | QA Engineer | Requirements Engineering | AI-Driven
 
 <p align="left">
   <a href="https://www.weltonsantos.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visite%20meu%20site-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-<a href="https://www.linkedin.com/in/welton-l-santos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/welton-l-santos/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="http://lattes.cnpq.br/0556454692435789" target="_blank">
-    <img src="https://img.shields.io/badge/Lattes-Currículo%20Acadêmico-00599C?style=for-the-badge&logo=googlescholar&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lattes-Academic%20CV-00599C?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
   <a href="https://orcid.org/0009-0009-0650-3614" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-0009--0009--0650--3614-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
   <a href="https://www.escavador.com/sobre/11311228/welton-luiz-gomes-dos-santos" target="_blank">
-    <img src="https://img.shields.io/badge/Escavador-Perfil%20Profissional-333333?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Escavador-Professional%20Profile-333333?style=for-the-badge" />
   </a>
 </p>
 
-Sou profissional de tecnologia com mais de 5 anos de experiência em desenvolvimento de produtos digitais, Product Design, análise de dados , engenharia de requisitos e testes automatizados.
+I am a technology professional with over 10 years of experience in the development and evolution of digital products, working across multidisciplinary fields including Product Design, UX/UI, User Research, Data Analytics, Requirements Engineering, and Software Quality Assurance. I have experience across different stages of the product lifecycle, from discovery, requirements gathering, and specification to prototyping, solution validation, performance metrics analysis, and test automation. I bridge Design, Technology, and Business to build user-centered, data-driven solutions aligned with organizational strategic goals. I also conduct research in Computer Engineering, focusing on Artificial Intelligence, Data Science, Time Series Analysis, Internet of Things (IoT), and Computational Intelligence, with the goal of transforming complex challenges into innovative, high-value solutions.
 
 ---
 
-## 🚀 Áreas de atuação
-
-| Área | Conhecimentos e interesses |
-|---|---|
-| 🧪 Quality Assurance | Testes funcionais, regressivos, integração e qualidade de software |
-| 🤖 Test Automation | Playwright, TypeScript e Python |
-| 🔌 API Testing | Automação e validação de APIs |
-| ♿ Accessibility Testing | Acessibilidade digital e WCAG |
-| 📱 Responsive Testing | Validação de interfaces em diferentes dispositivos |
-| 🔐 Security Testing | Testes e verificações de segurança |
-| 🎨 Product Design | UX/UI, UX Research e Design Systems |
-| 📊 Data Analytics | Análise de dados, BI e visualização |
-| 🧠 Artificial Intelligence | IA, Inteligência Computacional e pesquisa aplicada |
-
 ## 🛠️ Tech Stack & Tools
+
+### 🎨 Product Design, UX/UI & Research
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/FigJam-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black" />
+  <img src="https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge&logo=balsamiq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quant--UX-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UserTesting-00A3E0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Clarity-5B5FC7?style=for-the-badge" />
+</p>
 
 ### 🧪 Quality Assurance & Test Automation
 
@@ -66,12 +66,12 @@ Sou profissional de tecnologia com mais de 5 anos de experiência em desenvolvim
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-### 📊 Data Science, Analytics & BI
+### 📊 Data Science, Analytics & Business Intelligence
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -102,20 +102,6 @@ Sou profissional de tecnologia com mais de 5 anos de experiência em desenvolvim
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge" />
 </p>
 
-### 🎨 Product Design, UX/UI & Research
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/FigJam-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black" />
-  <img src="https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge&logo=balsamiq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quant--UX-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UserTesting-00A3E0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Clarity-5B5FC7?style=for-the-badge" />
-</p>
-
 ### 🔄 Project Management & Collaboration
 
 <p>
@@ -143,69 +129,71 @@ Sou profissional de tecnologia com mais de 5 anos de experiência em desenvolvim
 
 ---
 
+<!--
 ## 🧪 QA & Test Automation
 
-Atualmente, estou desenvolvendo projetos práticos de automação e validação de qualidade de software, explorando:
+I am currently developing hands-on projects focused on software quality assurance and test automation, exploring:
 
-- Testes funcionais e regressivos.
-- Testes de integração e APIs.
-- Automação de testes E2E com Playwright.
-- Testes de acessibilidade com axe-core.
-- Testes de responsividade.
-- Verificações automatizadas de segurança.
-- Geração de evidências e relatórios com Allure.
-- Integração de testes em pipelines CI/CD.
+- Functional and regression testing.
+- Integration and API testing.
+- End-to-end (E2E) test automation with Playwright.
+- Accessibility testing with axe-core.
+- Responsive testing.
+- Automated security checks.
+- Test evidence and reporting with Allure.
+- Test integration into CI/CD pipelines.
 
-**Principais tecnologias em exploração:**
+**Key technologies:**
 
 `Playwright` `TypeScript` `Python` `Allure` `axe-core` `GitHub Actions`
 
-## 🎓 Formação acadêmica
+## 🎓 Education
 
-- **Doutorado em Engenharia da Computação** — Universidade de Pernambuco (UPE) | 2024–2028 (em andamento).
-- **Mestrado Profissional em Design** — CESAR School | 2022–2024.
-- **Especialização em Design de Interação para Artefatos Digitais** — CESAR School | 2021–2023.
-- **Bacharelado em Ciência da Computação** — Universidade Federal Rural de Pernambuco (UFRPE) | 2013–2019.
+- **Ph.D. in Computer Engineering** — University of Pernambuco (UPE) | 2024–2028 (In progress).
+- **Professional Master's Degree in Design** — CESAR School | 2022–2024.
+- **Postgraduate Specialization in Interaction Design for Digital Artifacts** — CESAR School | 2021–2023.
+- **B.Sc. in Computer Science** — Federal Rural University of Pernambuco (UFRPE) | 2013–2019.
 
-## 🔬 Pesquisa & Inovação
+## 🔬 Research & Innovation
 
-Minha pesquisa acadêmica explora a aplicação de tecnologias emergentes para resolver problemas reais.
+My academic research explores the application of emerging technologies to address real-world challenges.
 
-Principais interesses:
+**Main research interests:**
 
-- Inteligência Artificial e Inteligência Computacional.
-- Internet das Coisas (IoT).
-- Ciência de Dados e séries temporais.
-- Engenharia de Software Experimental.
+- Artificial Intelligence and Computational Intelligence.
+- Internet of Things (IoT).
+- Data Science and Time Series Analysis.
+- Empirical Software Engineering.
 - Explainable AI (XAI).
-- Monitoramento inteligente e análise preditiva.
-- Tecnologia aplicada a cidades inteligentes e desastres naturais.
+- Intelligent Monitoring and Predictive Analytics.
+- Technology for Smart Cities and Natural Disaster Management.
 
-## 💼 Experiência profissional
+## 💼 Professional Experience
 
-Experiência em projetos de tecnologia, produtos digitais e transformação de processos, atuando em contextos multidisciplinares.
+Experience in technology projects, digital products, and business process transformation, working in multidisciplinary environments.
 
-**Principais competências desenvolvidas:**
+**Key competencies:**
 
-- Pesquisa com usuários e stakeholders.
-- Levantamento e engenharia de requisitos.
-- Prototipação e validação de soluções digitais.
-- Testes de usabilidade e avaliação heurística.
-- Análise de dados e construção de dashboards.
-- Colaboração com times de Produto, Design e Engenharia.
-- Melhoria contínua da experiência e qualidade de produtos.
+- User and stakeholder research.
+- Requirements gathering and engineering.
+- Digital solution prototyping and validation.
+- Usability testing and heuristic evaluation.
+- Data analytics and dashboard development.
+- Collaboration with Product, Design, and Engineering teams.
+- Continuous improvement of product experience and quality.
 
-## 📌 Projetos em destaque
+## 📌 Featured Projects
 
-| Projeto | Descrição | Tecnologias |
+| Project | Description | Technologies |
 |---|---|---|
-| QA Automation | Automação de testes de aplicações web | Playwright, TypeScript |
-| API Testing | Testes automatizados de APIs | Playwright, TypeScript |
-| Accessibility Testing | Validação de acessibilidade digital | axe-core, Playwright |
-| Responsive Testing | Validação de interfaces responsivas | Playwright |
-| IoT & Data Science | Monitoramento e análise de séries temporais | Python, IoT, IA |
+| QA Automation | Automated testing of web applications | Playwright, TypeScript |
+| API Testing | Automated API testing | Playwright, TypeScript |
+| Accessibility Testing | Digital accessibility validation | axe-core, Playwright |
+| Responsive Testing | Responsive interface validation | Playwright |
+| IoT & Data Science | Monitoring and time series analysis | Python, IoT, AI |
 
-*Os projetos serão vinculados aos respectivos repositórios à medida que forem publicados.*
+*Projects will be linked to their respective repositories as they are published.*
+-->
 
 ## 📊 GitHub Analytics
 
@@ -218,25 +206,22 @@ Experiência em projetos de tecnologia, produtos digitais e transformação de p
   <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🌎 Idiomas
+## 🌎 Languages
 
-- 🇧🇷 Português — Nativo.
-- 🇺🇸 Inglês — Leitura e escrita.
-- 🇪🇸 Espanhol — Intermediário.
+- 🇧🇷 Portuguese — Native.
+- 🇺🇸 English — Intermediate.
+- 🇪🇸 Spanish — Intermediate.
 
-## 📫 Vamos nos conectar?
+## 📫 Let's Connect!
 
 <p align="left">
   <a href="https://www.weltonsantos.com.br/">
     <img src="https://img.shields.io/badge/Website-Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Connecting Quality, Design, Data and Technology to build better digital experiences.</i>
+  <i>Connecting Quality, Design, Data, and Technology to build better digital experiences.</i>
 </p>
