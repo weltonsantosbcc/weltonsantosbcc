@@ -128,11 +128,11 @@ I also research Computer Engineering, with interests in **Artificial Intelligenc
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weltonsantosbcc&show_icons=true&hide_border=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weltonsantosbcc&layout=compact&hide_border=true&theme=transparent)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=weltonsantosbcc&hide_border=true&theme=transparent)
 
 </div>
 
