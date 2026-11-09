@@ -323,14 +323,14 @@ I am currently developing hands-on projects focused on software quality assuranc
 **Key technologies:**
 
 `Playwright` `TypeScript` `Python` `Allure` `axe-core` `GitHub Actions`
-
+-->
 ## 🎓 Education
 
 - **Ph.D. in Computer Engineering** — University of Pernambuco (UPE) | 2024–2028 (In progress).
 - **Professional Master's Degree in Design** — CESAR School | 2022–2024.
 - **Postgraduate Specialization in Interaction Design for Digital Artifacts** — CESAR School | 2021–2023.
 - **B.Sc. in Computer Science** — Federal Rural University of Pernambuco (UFRPE) | 2013–2019.
-
+<!--
 ## 🔬 Research & Innovation
 
 My academic research explores the application of emerging technologies to address real-world challenges.
